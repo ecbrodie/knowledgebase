@@ -14,6 +14,10 @@ This is a dumping ground of random knowledge that I have accumulated over my car
 * [A Visual Guide to Using :includes in Rails](https://engineering.gusto.com/a-visual-guide-to-using-includes-in-rails/)
 * [All Rake DB Tasks and What They Do](https://jacopretorius.net/2014/02/all-rails-db-rake-tasks-and-what-they-do.html)
 
+### Tools
+
+* **Whiteboarding:** [Excalidraw](https://excalidraw.com/)
+
 ******************
 
 ## License
