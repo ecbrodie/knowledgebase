@@ -21,6 +21,7 @@ This is a dumping ground of random knowledge that I have accumulated over my car
 ### Tools
 
 * **Whiteboarding:** [Excalidraw](https://excalidraw.com/)
+* **SQL Client:** [TablePlus](https://tableplus.com/)
 
 ******************
 
