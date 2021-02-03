@@ -18,6 +18,16 @@ This is a dumping ground of random knowledge that I have accumulated over my car
 
 * [undefined vs. null revisited](https://2ality.com/2021/01/undefined-null-revisited.html)
 
+### Code Editor
+
+**Preferred:** [RubyMine](https://www.jetbrains.com/ruby/)
+
+- I prefer using [Solarized Light Colour Scheme](https://github.com/jkaving/intellij-colors-solarized), which requires the "IntelliJ Light" Theme to be used in Appearance settings.
+
+**Lightweight/OSS Alternative:** [VSCode](https://code.visualstudio.com/)
+
+**CLI:** [NeoVim](https://neovim.io/)
+
 ### Tools
 
 * **Whiteboarding:** [Excalidraw](https://excalidraw.com/)
